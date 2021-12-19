@@ -13,9 +13,18 @@
 - **FillColor** : Color of the text
 - **RemainingColor** : Color who fill remaining progression
 
-### Exemple : https://imgur.com/UliBynl
+### Exemple : 
+![](https://imgur.com/UliBynl.jpg)
+
+<br>
+<br>
+<br>
 
 
->Render in Title : https://imgur.com/MnvUr6j
+>Render in Title : 
+![](https://imgur.com/MnvUr6j.jpg)
+<br>
 
->Render in Lore : https://imgur.com/bpZTueM
+>Render in Lore :
+>
+![](https://imgur.com/bpZTueM.jpg)
